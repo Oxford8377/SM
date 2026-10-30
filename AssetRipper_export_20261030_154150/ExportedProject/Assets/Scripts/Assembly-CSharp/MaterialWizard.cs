@@ -6,7 +6,7 @@ public class MaterialWizard : MonoBehaviour
 
 	public bool AutoSelf;
 
-	public Renderer renderer;
+	public new Renderer renderer;
 
 	public Material[] OldMaterial;
 

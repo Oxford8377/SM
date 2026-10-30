@@ -101,7 +101,7 @@ public class MentorIcoT : MonoBehaviour
 
 	public Animator MentorL3;
 
-	public Animator camera;
+	public new Animator camera;
 
 	public GameObject FlipFry;
 

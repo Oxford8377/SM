@@ -331,7 +331,7 @@ public class MentorIcoRiv1 : MonoBehaviour
 
 	public int SprayMove;
 
-	public Animator camera;
+	public new Animator camera;
 
 	public bool done;
 

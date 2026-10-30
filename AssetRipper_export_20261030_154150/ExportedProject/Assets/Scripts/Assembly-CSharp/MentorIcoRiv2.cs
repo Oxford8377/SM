@@ -351,7 +351,7 @@ public class MentorIcoRiv2 : MonoBehaviour
 
 	public Animator Scene1Cam;
 
-	public Animator camera;
+	public new Animator camera;
 
 	public bool done;
 

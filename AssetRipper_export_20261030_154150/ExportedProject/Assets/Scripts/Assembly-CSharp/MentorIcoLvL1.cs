@@ -316,7 +316,7 @@ public class MentorIcoLvL1 : MonoBehaviour
 
 	public Animator ArtCam;
 
-	public Animator camera;
+	public new Animator camera;
 
 	public Animator CoastCam;
 

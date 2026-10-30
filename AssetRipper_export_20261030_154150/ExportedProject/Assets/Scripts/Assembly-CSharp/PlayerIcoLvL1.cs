@@ -510,7 +510,7 @@ public class PlayerIcoLvL1 : MonoBehaviour
 
 	public Animator funknob;
 
-	public Animator camera;
+	public new Animator camera;
 
 	public Animator Scene1;
 
