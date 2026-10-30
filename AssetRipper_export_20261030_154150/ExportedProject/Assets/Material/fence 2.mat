@@ -1,0 +1,126 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: fence 2
+  m_Shader: {fileID: 4800000, guid: 22e8164db56b75b4e907737a854949ba, type: 3}
+  m_ValidKeywords: []
+  m_InvalidKeywords:
+  - _ALPHABLEND_ON
+  m_LightmapFlags: 0
+  m_EnableInstancingVariants: 1
+  m_DoubleSidedGI: 1
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+      _EmissionTexture:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+      _Graffiti:
+        m_Texture: {fileID: 2800000, guid: 172171b05e4c9ca4ea22a16d2244fbce, type: 3}
+        m_Scale: {x: 2.6, y: 1}
+        m_Offset: {x: -3.39, y: 0}
+      _Graffiti2:
+        m_Texture: {fileID: 2800000, guid: 52aba8dc6ccea3344b4faa3560189c75, type: 3}
+        m_Scale: {x: 2.94, y: 1.09}
+        m_Offset: {x: 0.72, y: -0.06}
+      _Graffiti3:
+        m_Texture: {fileID: 2800000, guid: 8622387692fc68d489b59c3e7e6ab6dd, type: 3}
+        m_Scale: {x: 2.5, y: 1}
+        m_Offset: {x: -2.1, y: 0.02}
+      _Graffiti4:
+        m_Texture: {fileID: 2800000, guid: 3f8fdb9d708300e498dc665f18c6487f, type: 3}
+        m_Scale: {x: 2.39, y: 1}
+        m_Offset: {x: 2.13, y: 0}
+      _MainTex:
+        m_Texture: {fileID: 2800000, guid: 7003066b7feccd040a7ca26c3fcac036, type: 3}
+        m_Scale: {x: 5.25, y: 0.999}
+        m_Offset: {x: 0, y: 0}
+      _NormalMap:
+        m_Texture: {fileID: 2800000, guid: 1354a50f7c99ae24f82c44599c2ebae2, type: 3}
+        m_Scale: {x: 2, y: 1}
+        m_Offset: {x: 0, y: 0}
+      _Ramp:
+        m_Texture: {fileID: 2800000, guid: 8f87eb33c88c1ee4184f60c96b2922f2, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+      _TextureSample0:
+        m_Texture: {fileID: 2800000, guid: 09e353e8a4f8ddc4ab42e09f17fef3b3, type: 3}
+        m_Scale: {x: 2.34, y: 1.31}
+        m_Offset: {x: 1.39, y: -0.11}
+      _palette1:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+      _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: {}
+    m_Floats:
+      _BlendOp: 0
+      _BumpScale: 1
+      _CameraFadingEnabled: 0
+      _CameraFarFadeDistance: 2
+      _CameraNearFadeDistance: 1
+      _CloseUpFade: -0.18
+      _ColorMode: 0
+      _Cull: 0
+      _Cutoff: 0.5
+      _DetailNormalMapScale: 1
+      _DistortionBlend: 0.5
+      _DistortionEnabled: 0
+      _DistortionStrength: 1
+      _DistortionStrengthScaled: 0
+      _DstBlend: 10
+      _EmissionEnabled: 0
+      _EmmTextureAmount: 0
+      _FlipbookMode: 0
+      _Float0: 13.46
+      _Float1: 0.21
+      _Gloss: 0.261
+      _GlossMapScale: 1
+      _Glossiness: 0.5
+      _GlossyReflections: 1
+      _GraffitiStrength: -0.28
+      _LightingEnabled: 1
+      _Metallic: 0
+      _Mode: 2
+      _NormalIntensity: 1
+      _NormalStrength: 1
+      _OcclusionStrength: 1
+      _Parallax: 0.02
+      _SmoothnessTextureChannel: 0
+      _SoftParticlesEnabled: 0
+      _SoftParticlesFarFadeDistance: 1
+      _SoftParticlesNearFadeDistance: 0
+      _SpecIntensity: 0.167
+      _SpecularHighlights: 1
+      _SrcBlend: 5
+      _TransitionDistance: 5.1
+      _UVSec: 0
+      _ZWrite: 0
+      __dirty: 0
+    m_Colors:
+      _CameraFadeParams: {r: 0, g: Infinity, b: 0, a: 0}
+      _Color: {r: 1, g: 1, b: 1, a: 1}
+      _Color0: {r: 1, g: 0.3443396, b: 0.40272042, a: 0}
+      _Color1: {r: 1, g: 1, b: 1, a: 1}
+      _ColorAddSubDiff: {r: 0, g: 0, b: 0, a: 0}
+      _Diffusecolor: {r: 1, g: 1, b: 1, a: 1}
+      _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+      _GraffitiOverlay: {r: 1, g: 1, b: 1, a: 1}
+      _GraffitiSubtract: {r: 1, g: 0.504717, b: 0.91108155, a: 0.36078432}
+      _SoftParticleFadeParams: {r: 0, g: 0, b: 0, a: 0}
+      _Speccolor: {r: 1, g: 1, b: 1, a: 1}
+      _Tint: {r: 0.9150943, g: 0.9150943, b: 0.9150943, a: 0}
+  m_BuildTextureStacks: []

@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1223223985, guid: 9f472be26349d733da946f8253a77cf7, type: 3}
+  m_Name: PlayerStartLine
+  m_EditorClassIdentifier:
+  mEventID: PlayerStartLine
+  mEventList:
+  - mStartSample: 383298
+    mEndSample: 383298
+  - mStartSample: 581129
+    mEndSample: 581129
+  - mStartSample: 877877
+    mEndSample: 877877
+  - mStartSample: 1075709
+    mEndSample: 1075709
+  - mStartSample: 1273541
+    mEndSample: 1273541
+  - mStartSample: 1471372
+    mEndSample: 1471372
+  - mStartSample: 1817579
+    mEndSample: 1817579
+  - mStartSample: 1916495
+    mEndSample: 1916495
+  - mStartSample: 2015411
+    mEndSample: 2015411
+  - mStartSample: 2114327
+    mEndSample: 2114327
+  - mStartSample: 2213242
+    mEndSample: 2213242
+  - mStartSample: 2312158
+    mEndSample: 2312158
+  - mStartSample: 2856196
+    mEndSample: 2856196
+  - mStartSample: 3054028
+    mEndSample: 3054028
+  - mStartSample: 3251859
+    mEndSample: 3251859
+  - mStartSample: 3449691
+    mEndSample: 3449691
+  - mStartSample: 3598065
+    mEndSample: 3598065
+  - mStartSample: 3696981
+    mEndSample: 3696981
+  - mStartSample: 3795897
+    mEndSample: 3795897
+  - mStartSample: 3894813
+    mEndSample: 3894813
+  - mStartSample: 3993728
+    mEndSample: 3993728
+  - mStartSample: 4092644
+    mEndSample: 4092644
+  - mStartSample: 4191560
+    mEndSample: 4191560
+  - mStartSample: 4290476
+    mEndSample: 4290476
+  _SerializedPayloadTypes: []
+  _AssetPayloads: []
+  _AssetPayloadIdxs:
+  _ColorPayloads: []
+  _ColorPayloadIdxs:
+  _CurvePayloads: []
+  _CurvePayloadIdxs:
+  _FloatPayloads: []
+  _FloatPayloadIdxs:
+  _GradientPayloads: []
+  _GradientPayloadIdxs:
+  _IntPayloads: []
+  _IntPayloadIdxs:
+  _SpectrumPayloads: []
+  _SpectrumPayloadIdxs:
+  _TextPayloads: []
+  _TextPayloadIdxs:

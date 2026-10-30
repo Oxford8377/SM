@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -2076007791, guid: 9f472be26349d733da946f8253a77cf7, type: 3}
+  m_Name: MusicBox1
+  m_EditorClassIdentifier:
+  mSourceClip: {fileID: 8300000, guid: 7eb5ab1758467534cbb9c08b8d3ae017, type: 3}
+  mAudioFilePath:
+  mSampleRate: 44100
+  mIgnoreLatencyOffset: 0
+  mTempoSections:
+  - sectionName: New Section
+    startSample: 0
+    samplesPerBeat: 20353.846153846156
+    beatsPerMeasure: 4
+    bStartNewMeasure: 1
+  mTracks:
+  - {fileID: 11400000, guid: 62ae91a6ba9fbb14eae10cb62876ff26, type: 2}
+  - {fileID: 11400000, guid: 26eeddf5bf4b2a642bbdf169bdc9fe7d, type: 2}
+  - {fileID: 11400000, guid: d9466ef3c1bb07144821b7c99ed7351b, type: 2}
+  - {fileID: 11400000, guid: bbf47394500e998478722c3eb04686c0, type: 2}
+  - {fileID: 11400000, guid: 96a8b94db82c43c4cbb2e9b8743314b9, type: 2}
+  - {fileID: 11400000, guid: 9234884168a3339419e686f113d38b7a, type: 2}
+  - {fileID: 11400000, guid: 387d20026aad9e04b94cae8284a66b0d, type: 2}
+  - {fileID: 11400000, guid: b36d75b41979fbb44b6bfb4d94dbc75b, type: 2}
+  - {fileID: 11400000, guid: 3b74778505ea40f44b21140f25db15e2, type: 2}
+  - {fileID: 11400000, guid: ccb9e9b17371a7a47b02a92e936de895, type: 2}

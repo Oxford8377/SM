@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1223223985, guid: 9f472be26349d733da946f8253a77cf7, type: 3}
+  m_Name: Bbutt
+  m_EditorClassIdentifier:
+  mEventID: Bbutt
+  mEventList:
+  - mStartSample: 865514
+    mEndSample: 865514
+  - mStartSample: 1001523
+    mEndSample: 1001523
+  - mStartSample: 1013887
+    mEndSample: 1013887
+  - mStartSample: 1199355
+    mEndSample: 1199355
+  - mStartSample: 1236448
+    mEndSample: 1236448
+  - mStartSample: 1384822
+    mEndSample: 1384822
+  - mStartSample: 1391004
+    mEndSample: 1391004
+  - mStartSample: 2843831
+    mEndSample: 2843831
+  - mStartSample: 2979840
+    mEndSample: 2979840
+  - mStartSample: 2992204
+    mEndSample: 2992204
+  - mStartSample: 3177672
+    mEndSample: 3177672
+  - mStartSample: 3214765
+    mEndSample: 3214765
+  - mStartSample: 3363139
+    mEndSample: 3363139
+  - mStartSample: 3369321
+    mEndSample: 3369321
+  _SerializedPayloadTypes:
+  - SonicBloom.Koreo.TextPayload
+  _AssetPayloads: []
+  _AssetPayloadIdxs:
+  _ColorPayloads: []
+  _ColorPayloadIdxs:
+  _CurvePayloads: []
+  _CurvePayloadIdxs:
+  _FloatPayloads: []
+  _FloatPayloadIdxs:
+  _GradientPayloads: []
+  _GradientPayloadIdxs:
+  _IntPayloads: []
+  _IntPayloadIdxs:
+  _SpectrumPayloads: []
+  _SpectrumPayloadIdxs:
+  _TextPayloads:
+  - mTextVal: B
+  - mTextVal: B
+  - mTextVal: B
+  - mTextVal: B
+  - mTextVal: B
+  - mTextVal: B
+  - mTextVal: B
+  - mTextVal: B
+  - mTextVal: B
+  - mTextVal: B
+  - mTextVal: B
+  - mTextVal: B
+  - mTextVal: B
+  - mTextVal: B
+  _TextPayloadIdxs: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d000000

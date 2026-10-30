@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1223223985, guid: 9f472be26349d733da946f8253a77cf7, type: 3}
+  m_Name: PinkWarning
+  m_EditorClassIdentifier:
+  mEventID: Warning
+  mEventList:
+  - mStartSample: 573300
+    mEndSample: 573300
+  - mStartSample: 738675
+    mEndSample: 738675
+  - mStartSample: 926100
+    mEndSample: 926100
+  - mStartSample: 1096987
+    mEndSample: 1096987
+  - mStartSample: 1367100
+    mEndSample: 1367100
+  - mStartSample: 1367947
+    mEndSample: 1367947
+  - mStartSample: 1984500
+    mEndSample: 1984500
+  - mStartSample: 2149875
+    mEndSample: 2149875
+  - mStartSample: 2337300
+    mEndSample: 2337300
+  - mStartSample: 2508187
+    mEndSample: 2508187
+  - mStartSample: 2690100
+    mEndSample: 2690100
+  - mStartSample: 2866500
+    mEndSample: 2866500
+  - mStartSample: 2943675
+    mEndSample: 2943675
+  - mStartSample: 2965725
+    mEndSample: 2965725
+  - mStartSample: 3042900
+    mEndSample: 3042900
+  - mStartSample: 3120075
+    mEndSample: 3120075
+  _SerializedPayloadTypes:
+  - SonicBloom.Koreo.TextPayload
+  _AssetPayloads: []
+  _AssetPayloadIdxs:
+  _ColorPayloads: []
+  _ColorPayloadIdxs:
+  _CurvePayloads: []
+  _CurvePayloadIdxs:
+  _FloatPayloads: []
+  _FloatPayloadIdxs:
+  _GradientPayloads: []
+  _GradientPayloadIdxs:
+  _IntPayloads: []
+  _IntPayloadIdxs:
+  _SpectrumPayloads: []
+  _SpectrumPayloadIdxs:
+  _TextPayloads:
+  - mTextVal: Spawn
+  - mTextVal: Spawn
+  - mTextVal: Spawn
+  - mTextVal: Spawn
+  - mTextVal: SpawnD
+  - mTextVal: Double
+  - mTextVal: Spawn
+  - mTextVal: Spawn
+  - mTextVal: Spawn
+  - mTextVal: Spawn
+  - mTextVal: Spawn
+  - mTextVal: Spawn
+  - mTextVal: Spawn
+  - mTextVal: Pink
+  - mTextVal: Spawn
+  - mTextVal: Spawn
+  _TextPayloadIdxs: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000

@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -2076007791, guid: 9f472be26349d733da946f8253a77cf7, type: 3}
+  m_Name: Metronome
+  m_EditorClassIdentifier:
+  mSourceClip: {fileID: 8300000, guid: 4fb1f4b233e601246a41a097e4b65b9d, type: 3}
+  mAudioFilePath:
+  mSampleRate: 44100
+  mIgnoreLatencyOffset: 0
+  mTempoSections:
+  - sectionName: New Section
+    startSample: 0
+    samplesPerBeat: 29400
+    beatsPerMeasure: 4
+    bStartNewMeasure: 1
+  mTracks:
+  - {fileID: 11400000, guid: 403fe11cdac6caa48adce5c97848b443, type: 2}
+  - {fileID: 11400000, guid: 1a34ca5d56b64df48a382134eb7000c7, type: 2}
+  - {fileID: 11400000, guid: 9ea8371fcbb28a045820d6bf1b152674, type: 2}
+  - {fileID: 11400000, guid: 90743673419cdbf43b7a566f5e61af03, type: 2}
