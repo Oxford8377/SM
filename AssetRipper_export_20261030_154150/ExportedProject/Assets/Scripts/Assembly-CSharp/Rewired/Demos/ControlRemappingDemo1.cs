@@ -242,6 +242,7 @@ namespace Rewired.Demos
 			public bool assign { get; private set; }
 
 			public JoystickAssignmentChange(int newPlayerId, int joystickId, bool assign)
+				: base(QueueActionType.JoystickAssignment)
 			{
 			}
 		}
@@ -253,10 +254,12 @@ namespace Rewired.Demos
 			public InputMapper.Context context { get; private set; }
 
 			public ElementAssignmentChange(ElementAssignmentChangeType changeType, InputMapper.Context context)
+				: base(QueueActionType.ElementAssignment)
 			{
 			}
 
 			public ElementAssignmentChange(ElementAssignmentChange other)
+				: base(QueueActionType.ElementAssignment)
 			{
 			}
 		}
@@ -268,6 +271,7 @@ namespace Rewired.Demos
 			public string joystickName { get; private set; }
 
 			public FallbackJoystickIdentification(int joystickId, string joystickName)
+				: base(QueueActionType.FallbackJoystickIdentification)
 			{
 			}
 		}
@@ -287,6 +291,7 @@ namespace Rewired.Demos
 			public CalibrationMap calibrationMap { get; private set; }
 
 			public Calibration(Player player, Joystick joystick, CalibrationMap calibrationMap)
+				: base(QueueActionType.Calibrate)
 			{
 			}
 		}

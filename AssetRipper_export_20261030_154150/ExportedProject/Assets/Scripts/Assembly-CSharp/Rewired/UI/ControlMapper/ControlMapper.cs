@@ -87,10 +87,12 @@ namespace Rewired.UI.ControlMapper
 			public ButtonInfo buttonInfo => null;
 
 			public GUIButton(GameObject gameObject)
+				: base(gameObject)
 			{
 			}
 
 			public GUIButton(Button button, TMP_Text label)
+				: base(button, label)
 			{
 			}
 
@@ -136,10 +138,12 @@ namespace Rewired.UI.ControlMapper
 			}
 
 			public GUIInputField(GameObject gameObject)
+				: base(gameObject)
 			{
 			}
 
 			public GUIInputField(Button button, TMP_Text label)
+				: base(button, label)
 			{
 			}
 
@@ -178,10 +182,12 @@ namespace Rewired.UI.ControlMapper
 			}
 
 			public GUIToggle(GameObject gameObject)
+				: base(gameObject)
 			{
 			}
 
 			public GUIToggle(Toggle toggle, TMP_Text label)
+				: base(toggle, label)
 			{
 			}
 
